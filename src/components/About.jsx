@@ -2,7 +2,7 @@ import { GraduationCap, MapPin, Calendar } from 'lucide-react';
 
 export function About() {
   return (
-    <section className="py-20 px-4 bg-white">
+    <section id="about" className="py-20 px-4 bg-white">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl mb-12 text-center">About Me</h2>
         

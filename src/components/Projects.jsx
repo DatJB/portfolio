@@ -29,7 +29,7 @@ export function Projects() {
   ];
 
   return (
-    <section className="py-20 px-4 bg-white">
+    <section id="projects" className="py-20 px-4 bg-white">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl mb-4 text-center">Featured Projects</h2>
         <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">

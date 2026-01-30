@@ -7,9 +7,9 @@ export function Contact() {
   };
 
   return (
-    <section className="py-20 px-4 bg-gray-50">
+    <section id="contact" className="py-20 px-4 bg-gray-50">
       <div className="max-w-6xl mx-auto">
-        <h2 className="text-4xl mb-4 text-center">Get In Touch</h2>
+        <h2 className="text-4xl mb-4 text-center">Contact</h2>
         <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
           I'm currently looking for internship opportunities and always open to discussing new projects or collaboration ideas.
         </p>
