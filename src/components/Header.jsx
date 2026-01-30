@@ -24,12 +24,11 @@ export function Header() {
     <header className="fixed top-0 left-0 right-0 bg-white/80 backdrop-blur-md border-b z-50">
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex items-center justify-between h-16">
-          {/* Logo */}
+            
           <a href="#" className="text-xl">
             Nguyen Dinh Dat
           </a>
 
-          {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center gap-8">
             {menuItems.map((item) => (
               <a
