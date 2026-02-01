@@ -1,4 +1,4 @@
-# IT Student Portfolio
+# IT Portfolio
 
 A modern, responsive portfolio website built with React and Tailwind CSS to showcase programming skills, projects, and contact information.
 
