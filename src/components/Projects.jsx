@@ -24,7 +24,7 @@ export function Projects() {
       image: './assets/images/weather.jpg',
       tags: ['JavaScript', 'React', 'HTML', 'CSS', 'TailwindCSS', 'Vite'],
       github: 'https://github.com/DatJB/weather-app',
-      demo: 'https://github.com/DatJB/weather-app',
+      demo: 'https://datjb.github.io/weather-app/',
     },
   ];
 
