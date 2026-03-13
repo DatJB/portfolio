@@ -13,10 +13,10 @@ export function Skills() {
       'React', 'Flask', 'Spring Boot', 'Tailwind CSS', 'Bootstrap'
     ],
     databases: [
-      'SQLServer', 'MongoDB', 'MySQL', 'Dbeaver', 'SQLite'
+      'SQLServer', 'MongoDB', 'MySQL', 'SQLite'
     ],
     tools: [
-      'Git','Github', 'Docker', 'VS Code', 'Linux', 'Postman', 'Figma'
+      'Git', 'Github', 'Docker', 'VS Code', 'Linux', 'Postman', 'Figma'
     ]
   };
 

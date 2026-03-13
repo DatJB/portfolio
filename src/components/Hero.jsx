@@ -9,13 +9,13 @@ export function Hero() {
             AS
           </div> */}
           <div className='mb-6 rounded-full flex items-center justify-center'>
-            <img src="./assets/images/avt.jpg" className='w-35 h-35 rounded-full'/>
+            <img src="./assets/images/avt.jpg" className='w-50 h-70 rounded-full'/>
           </div>
           <h1 className="text-5xl md:text-6xl mb-4">
             Dinh Dat Nguyen
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-6">
-            Third-year IT Student at PTIT
+            Third-year IT Talented Student at PTIT
           </p>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto mt-2 mb-8">
             Passionate about building innovative solutions and exploring new technologies. 
