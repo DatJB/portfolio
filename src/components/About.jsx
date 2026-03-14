@@ -36,7 +36,7 @@ export function About() {
                 <Calendar className="w-6 h-6 text-blue-600 mt-1 shrink-0" />
                 <div>
                   <h3 className="mb-2">Expected Graduation</h3>
-                  <p className="text-gray-600">May-2027</p>
+                  <p className="text-gray-600">Jan-2028</p>
                   <p className="text-sm text-gray-500">GPA: 3.6/4.0</p>
                 </div>
               </div>
