@@ -37,7 +37,7 @@ export function About() {
                 <div>
                   <h3 className="mb-2">Expected Graduation</h3>
                   <p className="text-gray-600">May-2027</p>
-                  <p className="text-sm text-gray-500">GPA: 3.7/4.0</p>
+                  <p className="text-sm text-gray-500">GPA: 3.6/4.0</p>
                 </div>
               </div>
             </div>
