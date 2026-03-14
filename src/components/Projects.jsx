@@ -27,7 +27,7 @@ export function Projects() {
       demo: 'https://datjb.github.io/weather-app/',
     },
     {
-      title: 'Secure File System',
+      title: 'Secure File System (In progress)',
       description: 'The system implements secure file storage by encrypting uploaded files before they are saved on the server. As a result, the files stored on the server are unreadable and appear as encrypted data. Even administrators who access the server’s storage cannot view the actual file content. Only authenticated and authorized users can access the web application, where the files are decrypted and displayed securely.',
       image: './assets/images/secure-file.png',
       tags: ['HTML', 'CSS', 'TailwindCSS', 'Spring Boot', 'Spring Security', 'JPA/Hibernate', 'AES (Java Security)'],
