@@ -8,8 +8,12 @@ export function Hero() {
           {/* <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-linear-to-br from-blue-500 to-indigo-600 flex items-center justify-center text-white text-5xl">
             AS
           </div> */}
-          <div className='mb-6 rounded-full flex items-center justify-center'>
-            <img src="./assets/images/avt.jpg" className='w-50 h-70 rounded-full'/>
+          <div className='mb-8 flex items-center justify-center'>
+            <img 
+              src="./assets/images/avt.jpg" 
+              alt="Profile Avatar" 
+              className="w-48 h-48 md:w-56 md:h-56 rounded-full object-cover object-[center_25%] border-4 border-white shadow-xl transition-all duration-500 hover:scale-105 hover:shadow-2xl"
+            />
           </div>
           <h1 className="text-5xl md:text-6xl mb-4">
             Dinh Dat Nguyen
