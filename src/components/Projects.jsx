@@ -30,7 +30,7 @@ export function Projects() {
       title: 'Soundbook Social Network',
       description: 'Soundbook is a comprehensive, music- and book-centric social network platform designed to connect users through their shared reading and listening tastes. The system is built on a client-server architecture backed by a relational database, featuring real-time interactive capabilities powered by WebSockets. Its defining feature is a personalized Taste DNA profiling engine (spanning Music, Book, and hybrid Taste DNA) that analyzes user preferences and calculates taste vectors for community matching. Beyond profiling, Soundbook supports a full suite of social capabilities, including rich content creation (reading updates, quote cards, reviews, blogs, and music notes), structured bookshelves and music collections, direct messaging, and collaborative Live Listening Rooms where users can co-listen, vote on a shared queue, and chat in real time.',
       image: './assets/images/soundbook.png',
-      tags: ['HTML', 'React', 'TailwindCSS', 'Spring Boot', 'Websockets', 'Cloudinary', 'REST API', 'Gemini API'],
+      tags: ['HTML', 'React', 'TailwindCSS', 'Spring Boot', 'Spring Security', 'Websockets/STOMP', 'OAuth 2.0', 'Youtube Data v3', 'Google Books', 'Cloudinary', 'REST API', 'Gemini API'],
       github: 'https://github.com/DatJB/soundbook-social-network',
       demo: 'https://github.com/DatJB',
     },
@@ -38,7 +38,7 @@ export function Projects() {
       title: 'Karaoke Management System',
       description: 'This project is a secure Karaoke Management System designed to streamline venue operations through strict role-based access control for bookings, room management, and billing. The platform leverages AI-powered feedback analysis to gain actionable insights from customer reviews, helping continuously improve service quality. To ensure high security and data integrity, the platform integrates Google Authentication for safe access, features robust invoice protection to prevent unauthorized tampering, and maintains comprehensive audit logs to track all critical user actions and system changes.',
       image: './assets/images/karaoke.png',
-      tags: ['HTML', 'React', 'TailwindCSS', 'Spring Boot', 'Websockets', 'Cloudinary', 'REST API', 'Gemini API', 'Google Authentication', 'Audit Logging', 'Shamir Secret Sharing', 'SHA-256', 'RSA'],
+      tags: ['HTML', 'React', 'TailwindCSS', 'Spring Boot', 'Spring Security', 'Websockets', 'Cloudinary', 'REST API', 'Gemini API', 'Google Authentication', 'Audit Logging', 'Shamir Secret Sharing', 'SHA-256', 'RSA'],
       github: 'https://github.com/DatJB/karaoke-management-system',
       demo: 'https://github.com/DatJB',
     }

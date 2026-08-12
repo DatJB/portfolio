@@ -10,13 +10,13 @@ export function Skills() {
       { name: 'HTML/CSS', level: 'Semantic HTML, Flexbox, Grid, Responsive design' },
     ],
     frameworks: [
-      'React', 'Flask', 'Spring Boot', 'Tailwind CSS', 'Bootstrap'
+      'React', 'Flask', 'Tailwind CSS', 'Bootstrap', 'Spring Boot', 'Spring Security'
     ],
     databases: [
       'SQLServer', 'MongoDB', 'MySQL', 'SQLite'
     ],
     tools: [
-      'Git', 'Github', 'Docker', 'VS Code', 'Linux', 'Postman', 'Figma'
+      'Git', 'GitHub', 'Docker', 'Linux', 'Postman', 'Figma'
     ]
   };
 
