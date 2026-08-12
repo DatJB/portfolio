@@ -38,7 +38,7 @@ export function Projects() {
       title: 'Karaoke Management System',
       description: 'This project is a secure Karaoke Management System designed to streamline venue operations through strict role-based access control for bookings, room management, and billing. The platform leverages AI-powered feedback analysis to gain actionable insights from customer reviews, helping continuously improve service quality. To ensure high security and data integrity, the platform integrates Google Authentication for safe access, features robust invoice protection to prevent unauthorized tampering, and maintains comprehensive audit logs to track all critical user actions and system changes.',
       image: './assets/images/karaoke.png',
-      tags: ['HTML', 'React', 'TailwindCSS', 'Spring Boot', 'Spring Security', 'Websockets', 'Cloudinary', 'REST API', 'Gemini API', 'Google Authentication', 'Audit Logging', 'Shamir Secret Sharing', 'SHA-256', 'RSA'],
+      tags: ['HTML', 'React', 'TailwindCSS', 'Spring Boot', 'Spring Security', 'Websockets', 'Cloudinary', 'REST API', 'Gemini API', 'Google Authentication', 'TOTP 2FA', 'Audit Logging', 'Shamir Secret Sharing', 'SHA-256', 'RSA'],
       github: 'https://github.com/DatJB/karaoke-management-system',
       demo: 'https://github.com/DatJB',
     }
