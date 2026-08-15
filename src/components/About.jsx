@@ -9,14 +9,12 @@ export function About() {
         <div className="grid md:grid-cols-2 gap-8">
           <div>
             <p className="text-lg text-gray-600 mb-6">
-              I'm a third-year IT student with a passion for creating efficient, scalable solutions. 
+              I'm a fourth-year IT student passionate about building reliable and scalable software solutions.
               My journey in technology began with a curiosity about how things work, which has evolved 
               into a deep commitment to software development and system architecture.
             </p>
             <p className="text-lg text-gray-600 mb-6">
-              I specialize in web development and have experience with modern frameworks 
-              and tools. I'm constantly learning and adapting to new technologies, with a particular 
-              interest in DevOps practices.
+              I'm continuously improving my skills through personal and academic projects, with a growing interest in backend development, system design, and DevOps practices.
             </p>
           </div>
 

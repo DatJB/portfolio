@@ -19,7 +19,7 @@ export function Hero() {
             Dinh Dat Nguyen
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-6">
-            Third-year IT Talented Student at PTIT
+            Talented Student at PTIT
           </p>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto mt-2 mb-8">
             Passionate about building innovative solutions and exploring new technologies. 
