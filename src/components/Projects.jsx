@@ -15,8 +15,8 @@ export function Projects() {
       description: 'A web-based medical appointment management system that allows patients to book appointments, doctors to manage schedules and medical records, and administrators to monitor system activities.',
       image: './assets/images/java.png',
       tags: ['Java', 'Servlet', 'JSP', 'HTML', 'CSS', 'JavaScript', 'Bootstrap', 'MySQL'],
-      github: 'https://github.com/ThienTa2005/Hospital-web',
-      demo: 'https://github.com/ThienTa2005/Hospital-web',
+      github: 'https://github.com/DatJB/hospital-web',
+      demo: 'https://github.com/DatJB/hospital-web',
     },
     {
       title: 'Weather Forecast Application',
